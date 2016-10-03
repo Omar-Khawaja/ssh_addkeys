@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Replace nodes.txt and password.txt with your own files, respectively
+
 file=nodes.txt
 password=password.txt
 
