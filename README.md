@@ -1,4 +1,4 @@
-# ssh_addkeys
+# ssh_addkeys using sshpass
 
 If you want to automate adding SSH keys to different nodes, you will come across problems using sshpass because of the strict host key checking prompt (The authenticity of host. . .Are you sure you want to continue connecting (yes/no)?)
 
