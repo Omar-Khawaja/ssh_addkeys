@@ -1,9 +1,10 @@
 # ssh_addkeys using sshpass
 
-TL;DR: use this script to automatically deploy ssh keys to multiple nodes
+Use this script to automatically deploy ssh keys to multiple nodes
 
+_____________________________________________________________________
 
-Further info for those who are interested:
+Optional info for those who are interested:
 
 If you want to automate adding SSH keys to different nodes, you will come across problems using sshpass because of the strict host key checking prompt (The authenticity of host. . .Are you sure you want to continue connecting (yes/no)?)
 
