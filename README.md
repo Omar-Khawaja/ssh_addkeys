@@ -12,3 +12,7 @@ If you are using Ubuntu, you can use the following command to install sshpass:
 
 apt-get install sshpass
 
+If you are using macOS, an unofficial brew package can be installed using this command (make sure you have Xcode and Command Line Tools installed):
+
+brew install https://raw.githubusercontent.com/kadwanev/bigboybrew/master/Library/Formula/sshpass.rb
+
